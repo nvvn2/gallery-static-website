@@ -6,3 +6,4 @@ A simple gallery static website hosted on AWS
 Here's what it looks like:sdf
 
 ![](gallery/images/sdfs/aws_cdn9.png)
+asdfa
